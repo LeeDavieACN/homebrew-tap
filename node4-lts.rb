@@ -27,7 +27,7 @@ class Node4Lts < Formula
   end
 
   resource "npm" do
-    url "https://registry.npmjs.org/npm/-/npm-2.15.9.tgz"
+    url "https://registry.npmjs.org/npm/-/npm-3.10.8.tgz"
     sha256 "111243bdcf37c3cc8d16e2e7dc15f5ed422c20a9a7201a1620b3136d1e858081"
   end
 
