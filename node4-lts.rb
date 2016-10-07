@@ -28,7 +28,7 @@ class Node4Lts < Formula
 
   resource "npm" do
     url "https://registry.npmjs.org/npm/-/npm-3.10.8.tgz"
-    sha256 "111243bdcf37c3cc8d16e2e7dc15f5ed422c20a9a7201a1620b3136d1e858081"
+    sha256 "1121a75a370fd0efb320fffb7c9e4a8bcb3840d1cf2fbd585c54837b7014dd76"
   end
 
   resource "icu4c" do
